@@ -22,10 +22,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 </UL>
 <DIV>
 
-### Technical Requirements
-This course has the following software requirements:<br/>
-N/A
-
 ## Related Products
 * [The Complete Web Development Course - Build 15 Projects [Video]](https://www.packtpub.com/web-development/complete-web-development-course-build-15-projects-video)
 
