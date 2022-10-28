@@ -28,3 +28,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 * [Modern JavaScript From The Beginning [Video]](https://www.packtpub.com/web-development/modern-javascript-beginning-video)
 
 * [JavaScript (and jQuery) in 7 Days [Video]](https://www.packtpub.com/application-development/javascript-and-jquery-7-days-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789132052">https://packt.link/free-ebook/9781789132052 </a> </p>
